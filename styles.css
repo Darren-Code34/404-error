@@ -60,7 +60,7 @@ footer a{
 
 @media only screen and (min-width:1000px){
     body{
-        padding: 50px;
+        padding: 40px;
     }
 
     header h3{
@@ -98,9 +98,6 @@ footer a{
 }
 
 @media only screen and (min-width:1200px){
-    body{
-        padding: 80px;
-    }
 
     section img{
         width: 500px;
