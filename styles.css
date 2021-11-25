@@ -82,10 +82,12 @@ footer a{
 
     main h1{
         font-size: 50px;
+        margin-right: 50px;
     }
 
     main p{
         font-size: 20px;
+        margin-right: 50px;
     }
 
    
@@ -100,9 +102,9 @@ footer a{
 @media only screen and (min-width:1200px){
 
     section img{
-        width: 500px;
-        height: 380px;
-        margin-right: 80px;
+        width: 600px;
+        height: 400px;
+        margin-right: 120px;
     }
 
     main h1{
@@ -112,5 +114,6 @@ footer a{
     main p{
         font-size: 24px;
     }
+
 
 }
